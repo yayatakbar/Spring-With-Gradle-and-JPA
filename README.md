@@ -1,1 +1,4 @@
-# Spring-With-Gradle-and-JPA
+ - First create database withname testcorpora
+ - Import all SQL Ile in folder query
+ - Build the project
+ - Run Via Gradle 
